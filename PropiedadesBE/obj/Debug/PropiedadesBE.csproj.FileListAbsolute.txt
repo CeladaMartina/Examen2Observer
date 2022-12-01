@@ -1,0 +1,5 @@
+C:\Users\mcelada\source\repos\Examen2Observer\PropiedadesBE\bin\Debug\PropiedadesBE.dll
+C:\Users\mcelada\source\repos\Examen2Observer\PropiedadesBE\bin\Debug\PropiedadesBE.pdb
+C:\Users\mcelada\source\repos\Examen2Observer\PropiedadesBE\obj\Debug\PropiedadesBE.csproj.CoreCompileInputs.cache
+C:\Users\mcelada\source\repos\Examen2Observer\PropiedadesBE\obj\Debug\PropiedadesBE.dll
+C:\Users\mcelada\source\repos\Examen2Observer\PropiedadesBE\obj\Debug\PropiedadesBE.pdb

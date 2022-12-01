@@ -1,0 +1,16 @@
+C:\Users\mcelada\source\repos\Examen2Observer\Examen2Observer\bin\Debug\Examen2Observer.exe.config
+C:\Users\mcelada\source\repos\Examen2Observer\Examen2Observer\bin\Debug\Examen2Observer.exe
+C:\Users\mcelada\source\repos\Examen2Observer\Examen2Observer\bin\Debug\Examen2Observer.pdb
+C:\Users\mcelada\source\repos\Examen2Observer\Examen2Observer\bin\Debug\Controller.dll
+C:\Users\mcelada\source\repos\Examen2Observer\Examen2Observer\bin\Debug\PropiedadesBE.dll
+C:\Users\mcelada\source\repos\Examen2Observer\Examen2Observer\bin\Debug\Controller.pdb
+C:\Users\mcelada\source\repos\Examen2Observer\Examen2Observer\bin\Debug\PropiedadesBE.pdb
+C:\Users\mcelada\source\repos\Examen2Observer\Examen2Observer\obj\Debug\Examen2Observer.csproj.AssemblyReference.cache
+C:\Users\mcelada\source\repos\Examen2Observer\Examen2Observer\obj\Debug\Examen2Observer.Form1.resources
+C:\Users\mcelada\source\repos\Examen2Observer\Examen2Observer\obj\Debug\Examen2Observer.FormVuelos.resources
+C:\Users\mcelada\source\repos\Examen2Observer\Examen2Observer\obj\Debug\Examen2Observer.Properties.Resources.resources
+C:\Users\mcelada\source\repos\Examen2Observer\Examen2Observer\obj\Debug\Examen2Observer.csproj.GenerateResource.cache
+C:\Users\mcelada\source\repos\Examen2Observer\Examen2Observer\obj\Debug\Examen2Observer.csproj.CoreCompileInputs.cache
+C:\Users\mcelada\source\repos\Examen2Observer\Examen2Observer\obj\Debug\Examen2Observer.csproj.CopyComplete
+C:\Users\mcelada\source\repos\Examen2Observer\Examen2Observer\obj\Debug\Examen2Observer.exe
+C:\Users\mcelada\source\repos\Examen2Observer\Examen2Observer\obj\Debug\Examen2Observer.pdb

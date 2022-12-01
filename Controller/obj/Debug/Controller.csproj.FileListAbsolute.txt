@@ -1,0 +1,9 @@
+C:\Users\mcelada\source\repos\Examen2Observer\Controller\bin\Debug\Controller.dll
+C:\Users\mcelada\source\repos\Examen2Observer\Controller\bin\Debug\Controller.pdb
+C:\Users\mcelada\source\repos\Examen2Observer\Controller\bin\Debug\PropiedadesBE.dll
+C:\Users\mcelada\source\repos\Examen2Observer\Controller\bin\Debug\PropiedadesBE.pdb
+C:\Users\mcelada\source\repos\Examen2Observer\Controller\obj\Debug\Controller.csproj.AssemblyReference.cache
+C:\Users\mcelada\source\repos\Examen2Observer\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\mcelada\source\repos\Examen2Observer\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\mcelada\source\repos\Examen2Observer\Controller\obj\Debug\Controller.dll
+C:\Users\mcelada\source\repos\Examen2Observer\Controller\obj\Debug\Controller.pdb
